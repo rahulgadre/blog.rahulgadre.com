@@ -44,7 +44,7 @@ params:
         enabled: false
         title: Rahul Gadre
         description:
-        imageUrl: "/images/rg-gold-300.png"
+        imageUrl: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
@@ -73,11 +73,11 @@ params:
 
     # change favicon in images folder (icon for web tab)
     assets:
-          favicon: "/images/rg-gold-300.png"
-          favicon16x16: "/images/rg-gold-300.png"
-          favicon32x32: "/images/rg-gold-300.png"
-          apple_touch_icon: "/images/rg-gold-300.png"
-          safari_pinned_tab: "/images/rg-gold-300.png"
+          favicon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+          favicon16x16: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+          favicon32x32: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+          apple_touch_icon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+          safari_pinned_tab: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
 
 
 
