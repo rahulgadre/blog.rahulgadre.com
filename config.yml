@@ -47,13 +47,13 @@ params:
         enabled: true
         title: Rahul Gadre
         description: Hello, I am Rahul. Check out the blog section for blogs related to career, travel, and life :-) 
-        imageUrl: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+        imageUrl: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/gadrer.jpg"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+           - name: Rahul's blog
+             url: https://blog.rahulgadre.com/articles/
     mainSections:
       - articles
       
