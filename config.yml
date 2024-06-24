@@ -13,9 +13,9 @@ menu:
         - name: Contact
           url: /contact/
           weight: 30
-       # - name: Articles
-       #   url: /articles/
-       #   weight: 20
+        - name: Blog
+          url: /articles/
+          weight: 20
        # - name: Projects
        #   url: /projects/
        #   weight: 15
@@ -44,9 +44,9 @@ params:
 
     profileMode:
         # Disable to populate home page with 'mainSections' content
-        enabled: false
+        enabled: true
         title: Rahul Gadre
-        description:
+        description: Hello, I am Rahul. Check out the blog section for blogs related to career, travel, and life :-) 
         imageUrl: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
         imageTitle: my image
         # imageWidth: 120
@@ -56,14 +56,14 @@ params:
               url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
       - articles
-
+      
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+        - name: twitter
+          url: "https://twitter.com/rggadre"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/rahulgadre"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/rahulgadre/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
