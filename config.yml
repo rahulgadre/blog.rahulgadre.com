@@ -14,7 +14,7 @@ menu:
           url: /contact/
           weight: 30
         - name: Blog
-          url: /articles/
+          url: /blog/
           weight: 20
        # - name: Projects
        #   url: /projects/
