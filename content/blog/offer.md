@@ -2,7 +2,7 @@
 title: From rejections to an offer 
 date: 2020-12-14 07:22:47 +07:00
 tags: [Career]
-description: This blog shows my journey from rejections to getting an offer.
+description: My journey from rejections to getting an offer.
 ---
 
 Recently, I was approached by an AWS recruiter about a role at AWS. At first, I was glad to receive another interview call from AWS, but then I started to realize that it might go the same way it went the last 4 times. I always knew I had the skills to do the job that I was applying for, but something didn’t click on the last 4 occasions. However, something inside me kept telling me – give it a shot, what’s the worst that could possibly happen? You would get rejected and it wasn’t something new to me. Therefore, I agreed to go through the interview process. However, I told myself that I would do things differently to avoid the same outcome and I was right. With enough perseverance anything is possible. Therefore, I decided to document my journey (which began back in 2016) from failing 4 onsite interviews, to getting an offer from Amazon.
