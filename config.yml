@@ -53,7 +53,7 @@ params:
         # imageHeight: 120
         buttons:
            - name: Rahul's blogs
-             url: https://blog.rahulgadre.com/articles/
+             url: https://blog.rahulgadre.com/blog/
     mainSections:
       - articles
       
