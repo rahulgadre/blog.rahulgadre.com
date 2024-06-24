@@ -73,7 +73,7 @@ params:
 
     # change favicon in images folder (icon for web tab)
     assets:
-          favicon: "/images/favicon.ico"
+          favicon: "/images/rg-gold-300.png"
           favicon16x16: "/images/rg-gold-300.png"
           favicon32x32: "/images/rg-gold-300.png"
           apple_touch_icon: "/images/rg-gold-300.png"
