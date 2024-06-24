@@ -1,6 +1,6 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
-paginate: 5
+title: Rahul Gadre
+paginate: 6
 theme: charlolamode
 
 
@@ -42,15 +42,9 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: false
-        title: Joe Doe
-        description: |
-
-          Hello, I am Joe.
-           I am a software developer. 
-        
-
-          This is a minimalistic theme template for websites.
-        imageUrl: "/images/profile.png"
+        title: Rahul Gadre
+        description:
+        imageUrl: "/images/rg-gold-300.png"
         imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
@@ -80,10 +74,10 @@ params:
     # change favicon in images folder (icon for web tab)
     assets:
           favicon: "/images/favicon.ico"
-          favicon16x16: "/images/favicon-16x16.png"
-          favicon32x32: "/images/favicon-32x32.png"
-          apple_touch_icon: "/images/apple-touch-icon.png"
-          safari_pinned_tab: "/images/apple-touch-icon.png"
+          favicon16x16: "/images/rg-gold-300.png"
+          favicon32x32: "/images/rg-gold-300.png"
+          apple_touch_icon: "/images/rg-gold-300.png"
+          safari_pinned_tab: "/images/rg-gold-300.png"
 
 
 
