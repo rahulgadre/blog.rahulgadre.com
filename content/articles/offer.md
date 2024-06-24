@@ -33,5 +33,5 @@ Here are a few things which I learned from this whole experience:
  -  Nothing is given, everything is earned. If you want something, you must work hard to get it.
  -  Don’t give up on your dreams. Keep fighting and trying. With enough perseverance, your time will come.
 
-Lastly, I want to end this blog with a line that’s so close to my heart which is “hara wahi jo lada nahi” which means those who haven't fought, are the ones who lost.
+Lastly, I want to end this blog with a line that’s so close to my heart which is “hara wahi jo lada nahi” which means those who haven't fought, are the ones who lost. \
 Good luck and all the best for whatever you are chasing in your lives.      
