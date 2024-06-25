@@ -1,8 +1,8 @@
 ---
 title: Passed AWS-SOA-C01 Exam
 date: 2021-07-30 15:28:07 +07:00
-tags: [Career]
-image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/soa.png"
+tags: [Certification]
+image: "https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"
 description: How I passed the AWS SysOps Administrator Associate exam...
 ---
 
