@@ -1,7 +1,7 @@
 ---
 title: India trip
 date: 2019-07-27T23:11:25.364Z
-tags: ["Life"] 
+tags: ["Travel"] 
 description: A story of my eventful journey to India in July 2019 
 ---
 
