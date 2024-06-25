@@ -1,8 +1,8 @@
 ---
 title: Passed the AWS Solutions Architect Professional exam
 date: 2022-10-22 22:15:27 +07:00
-image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/sa-pro.png"
-tags: [Career]
+image: "https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+tags: [Certification]
 description: Passed the AWS solutions architect professional exam.
 ---
 
