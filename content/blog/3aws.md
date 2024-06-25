@@ -1,7 +1,7 @@
 ---
 title: Achieved the trifecta of all AWS associate level certifications
 date: 2022-03-06 20:08:47 +07:00
-images: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/3aws.png"
+image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/3aws.png"
 tags: [Certification]
 description: Passed all three AWS associate level certifications 
 ---
