@@ -46,7 +46,7 @@ params:
         # Disable to populate home page with 'mainSections' content
         enabled: true
         title: Rahul Gadre
-        description: Hello, I am Rahul. This blog site is for blogs related to career, travel, and life 😊
+        description: Hello, I am Rahul. This blog site is for blogs related to career, travel, and life
         imageUrl: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/my-rmnp-pic.png"
         imageTitle: my image
         # imageWidth: 120
