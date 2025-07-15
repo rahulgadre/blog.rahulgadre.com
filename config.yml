@@ -52,7 +52,7 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-           - name: Rahul's blogs
+           - name: Blogs
              url: https://blog.rahulgadre.com/blog/
            - name: Personal Finance blogs
              url: https://blog.rahulgadre.com/finance/
