@@ -9,17 +9,13 @@ description: A Tax-Smart Investment Vehicle
 
 One of the most compelling features of a Roth IRA is its tax-free growth potential. When you invest your after-tax dollars into this account, your money grows without the burden of taxation, making it an excellent long-term investment strategy.
 
-## Key Benefits for First-Time Homebuyers
-
-Planning to buy your first home? Your Roth IRA can help! You can withdraw up to $10,000 penalty-free for a first-time home purchase, making it an excellent savings vehicle for your down payment.
-
 ## Important Timeline and Age Considerations
 
 * **5-Year Rule**: To avoid taxes on earnings, your account must be at least 5 years old
 * **Early Withdrawals**: A 10% penalty applies to early withdrawals (with some exceptions)
 * **Age 59½**: After this age, you can withdraw all funds tax-free
 
-## 2023 Contribution Guidelines
+## Past Contribution Guidelines
 
 * Annual contribution limit: $7,000
 * Income eligibility: Combined gross income less than $230,000
