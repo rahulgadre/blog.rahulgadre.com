@@ -1,3 +1,3 @@
 ---
-title: Finance Blogs
+title: Personal Finance Blogs
 ---
