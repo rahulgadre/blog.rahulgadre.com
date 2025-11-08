@@ -1,4 +1,9 @@
-# How to Use iCloud+ to Create a Custom Email Address with Your Own Domain Name
+---
+title: How to Use iCloud+ to Create a Custom Email Address with Your Own Domain Name
+date: 2025-11-06 20:08:47 +07:00
+tags: [Apple]
+description: 
+---
 
 If you want an email address that looks more professional than `@icloud.com`—for example, `you@yourdomain.com`—Apple’s iCloud+ makes that possible.  
 With iCloud+, you can use your own custom domain name for iCloud Mail, keeping your email within Apple’s secure ecosystem.
