@@ -61,15 +61,26 @@ You can add up to five custom domains with iCloud+, and each domain can have thr
 
 ## Step 4: Update Your DNS Records
 
-Apple will show you a set of DNS records that you need to add at your domain registrar.  
-These usually include:
+Apple will show you a set of DNS records that you need to add at your domain registrar. These usually include:
 
 - **MX records** – Direct email to Apple’s mail servers.  
 - **TXT records** – Verify ownership of your domain.  
 - **CNAME records** – Provide security and spam protection.  
 
-Add these records to your DNS settings, then return to iCloud and click **Verify**.  
-Verification may take a few minutes or up to an hour.
+Add the following records to your DNS settings, then return to iCloud and click **Verify**. Verification may take a few minutes or up to an hour.
+
+#### MX Records:
+
+Record Type: MX Host: @ Value: mx01.mail.icloud.com. Priority: 10
+
+Record Type: MX Host: @ Value: mx02.mail.icloud.com. Priority: 10
+
+#### DKIM Record:
+
+Record Type: CNAME Host: sig1._domainkey Value: sig1.dkim.example.com.at.icloudmailadmin.com.
+
+For more details, check Apple’s official support guide:  
+[Set up an existing domain with iCloud Mail](https://support.apple.com/en-us/102374)
 
 ---
 
