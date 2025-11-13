@@ -71,13 +71,19 @@ Add the following records to your DNS settings, then return to iCloud and click 
 
 #### MX Records:
 
-```Record Type: MX Host: @ Value: mx01.mail.icloud.com. Priority: 10```
+```
+Record Type: MX Host: @ Value: mx01.mail.icloud.com. Priority: 10
+```
 
-```Record Type: MX Host: @ Value: mx02.mail.icloud.com. Priority: 10```
+```
+Record Type: MX Host: @ Value: mx02.mail.icloud.com. Priority: 10
+```
 
 #### DKIM Record:
 
-```Record Type: CNAME Host: sig1._domainkey Value: sig1.dkim.example.com.at.icloudmailadmin.com.```
+```
+Record Type: CNAME Host: sig1._domainkey Value: sig1.dkim.example.com.at.icloudmailadmin.com.
+```
 
 For more details, check Apple’s official support guide:  
 [Set up an existing domain with iCloud Mail](https://support.apple.com/en-us/102374)
