@@ -1,5 +1,5 @@
 ---
-title: Passed the AWS Certified Security Specialty
+title: Passed the AWS Certified Security Specialty exam
 date: 2026-02-14 15:15:27 +07:00
 image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/aws-certified-security-specialty.png"
 tags: [Certifications]
