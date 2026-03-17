@@ -1,6 +1,6 @@
 ---
 title: How to Password Protect a Zip File on Mac
-date: 2026-02-05T14:30:00.000Z
+date: 2026-01-09T14:30:00.000Z
 tags: ["Mac", "Terminal", "Tips"]
 description: A quick guide on how to password protect a zip file on Mac using Terminal
 ---
