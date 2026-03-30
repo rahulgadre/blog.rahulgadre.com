@@ -78,7 +78,7 @@ params:
 
     # change favicon in images folder (icon for web tab)
     assets:
-          favicon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+          favicon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-initials.svg"
           favicon16x16: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
           favicon32x32: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
           apple_touch_icon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
