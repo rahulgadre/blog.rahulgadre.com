@@ -79,10 +79,10 @@ params:
     # change favicon in images folder (icon for web tab)
     assets:
           favicon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-initials.svg"
-          favicon16x16: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
-          favicon32x32: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
-          apple_touch_icon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
-          safari_pinned_tab: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-gold-300.png"
+          favicon16x16: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-initials.svg"
+          favicon32x32: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-initials.svg"
+          apple_touch_icon: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rrg-initials.png"
+          safari_pinned_tab: "https://raw.githubusercontent.com/rahulgadre/misc-blogs/main/images/rg-initials.png"
 
 
 
