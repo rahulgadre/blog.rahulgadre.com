@@ -3,7 +3,7 @@ title: "The Correspondent — A Book That Couldn't Put Down"
 date: 2026-07-29 10:30:00 -06:00
 image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/correspondent.jpg"
 tags: ["Books", "Non-Fiction", "Book Review"]
-description: "A quick review of The Correspondent — a 280-page epistolary novel told entirely through letters and emails that I couldn't put down."
+description: "A quick review of The Correspondent — an epistolary novel told entirely through letters and emails that I couldn't put down."
 ---
 
 I finished *The Correspondent* in just three days. At around 280 pages, that might not sound impressive — but the format makes it incredibly addictive. The entire book is told through letters and emails, which makes it easy to keep turning pages. You tell yourself "just one more letter" and suddenly it's midnight.
