@@ -54,8 +54,8 @@ params:
         buttons:
            - name: Blogs
              url: https://blog.rahulgadre.com/blog/
-           - name: Personal Finance blogs
-             url: https://blog.rahulgadre.com/finance/
+           - name: Books
+             url: https://blog.rahulgadre.com/books/
     mainSections:
       - articles
       
