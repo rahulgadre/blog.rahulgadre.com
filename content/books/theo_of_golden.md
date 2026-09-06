@@ -1,7 +1,7 @@
 ---
 title: "Theo of Golden"
 date: 2026-09-06 09:30:00 -06:00
-image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/theo.jpeg"
+image: "https://raw.githubusercontent.com/rahulgadre/blog.rahulgadre.com/main/images/theo.jpg"
 tags: ["Books", "Fiction", "Book Review"]
 description: "A heartfelt story about connection, generosity, and the impact of giving."
 ---
